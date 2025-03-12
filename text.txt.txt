@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 User 1 created
+=======
+User 2 created
+>>>>>>> 00f35f3 (user 2)
